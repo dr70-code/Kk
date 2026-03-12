@@ -5,7 +5,7 @@ const fs = require('fs');
 
 const client = new Client({ checkUpdate: false });
 const CONFIG = {
-    TOKEN: "MTIxOTIxMDM1MjQxMjA2NTgwNQ.GLWL4s.z82rnfSElpIk3hp4_X7m7Zbxa_51XhKHJso83c",
+    TOKEN: "MTIxOTIxMDM1MjQxMjA2NTgwNQ.GQYGnJ.S0dwBnSjmPkhyZwXKCK5aLQsHnLO8MXJyCb3e8",
     PREFIX: "!",
     OWNER_ID: "466820693561180170"
 };
