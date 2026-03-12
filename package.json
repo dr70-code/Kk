@@ -1,0 +1,12 @@
+{
+  "name": "lite-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.4.4",
+    "@discordjs/voice": "0.16.0",
+    "@dank074/discord-video-stream": "latest",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.13"
+  }
+}
